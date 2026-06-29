@@ -1,11 +1,3 @@
----
-type: Document
-title: LLM Wiki + OKF — Despliegue Básico
-description: Estructura inicial lista para usar. Descomprime, ajusta DOMAIN en AGENTS.md y empieza a ingerir.
-tags: [despliegue, llm-wiki, okf, quickstart]
-timestamp: 2026-06-17T17:21:00Z
----
-
 # LLM Wiki + OKF — Despliegue Básico
 
 Bundle listo para usar. Contiene la estructura mínima viable del sistema
